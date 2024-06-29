@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Banks Account related PROD APIs"
   contactDetails:
     name: "Lisa Parrish -Product Owner"
-    email: "Lisaparrish@banks.com"
+    email: "{cipher}8412ebbf421f26835df31b306eb49490dcc9236c58458caccbf3d6d07cfbda5e21532c5b4b0ef2fef61b9f7afb364a9d"
   onCallSupport:
     -(777)265-3478
     -(777)122-7989
