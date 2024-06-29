@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to Banks Account related PROD APIs"
+  contactDetails:
+    name: "Lisa Parrish -Product Owner"
+    email: "Lisaparrish@banks.com"
+  onCallSupport:
+    -(777)265-3478
+    -(777)122-7989
